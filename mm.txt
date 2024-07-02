@@ -1,0 +1,1 @@
+//*[contains(text(),"Price")]/following-sibling::td/span[@data-a-color="price"]/span[@class="a-offscreen"]
